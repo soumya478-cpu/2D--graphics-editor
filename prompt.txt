@@ -1,0 +1,45 @@
+Prompt 1:
+Design a menu-driven 2D Graphics Editor in C using a 2D character array as a canvas. The canvas should be initialized with underscores (_) and graphical objects should be drawn using asterisks (*).
+
+Response:
+Suggested using a 2D character array, menu options for drawing shapes, and functions for display.
+
+--------------------------------------------------
+
+Prompt 2:
+Write a C function to draw a line on a 2D character array canvas.
+
+Response:
+Provided a line-drawing function using incremental coordinates.
+
+--------------------------------------------------
+
+Prompt 3:
+Write a C function to draw a rectangle on a 2D character array canvas.
+
+Response:
+Provided a rectangle-drawing function using corner coordinates.
+
+--------------------------------------------------
+
+Prompt 4:
+Write a C function to draw a circle and triangle on a 2D character array canvas.
+
+Response:
+Provided circle and triangle drawing algorithms.
+
+--------------------------------------------------
+
+Prompt 5:
+How can I add, delete, modify, and display graphical objects in a menu-driven C graphics editor?
+
+Response:
+Suggested using structures to store object information and menu options for add, delete, modify, and display operations.
+
+--------------------------------------------------
+
+Prompt 6:
+How do I compile and run a C graphics editor project using GCC on Windows?
+
+Response:
+Provided GCC compile and execution commands.
